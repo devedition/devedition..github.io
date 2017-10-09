@@ -1,0 +1,13 @@
+# Site settings
+title: DevEdition
+motto: The desire for knowledge shapes a man
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  This site will be related to everything interresting, programming, machine learning, AI, experiments and evything in between.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://devedition.se" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  devedition
+
+# Build settings
+markdown: kramdown
